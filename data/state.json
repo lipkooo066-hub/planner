@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "name": "Python",
+            "tasks": [
+                {
+                    "title": "Лабораторная №3",
+                    "type": "homework",
+                    "deadline": "2026-10-25",
+                    "status": "new"
+                },
+                {
+                    "title": "Итоговый проект",
+                    "type": "homework",
+                    "deadline": "2026-11-01",
+                    "status": "new"
+                }
+            ]
+        },
+        {
+            "name": "Математика",
+            "tasks": [
+                {
+                    "title": "Итоговый тест",
+                    "type": "exam",
+                    "deadline": "2026-12-15",
+                    "status": "new"
+                }
+            ]
+        },
+        {
+            "name": "Физика",
+            "tasks": [
+                {
+                    "title": "Лабораторная №1",
+                    "type": "homework",
+                    "deadline": "2026-10-20",
+                    "status": "done"
+                }
+            ]
+        },
+        {
+            "name": "Алгоритмы",
+            "tasks": [
+                {
+                    "title": "Коллоквиум",
+                    "type": "exam",
+                    "deadline": "2026-11-10",
+                    "status": "new"
+                }
+            ]
+        }
+    ]
+}
